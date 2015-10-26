@@ -1,5 +1,7 @@
 # messenger
 
+![travis ci status](https://travis-ci.org/kaija/messenger.svg?branch=master)
+
 This project is made for quick setup a GCM/APNS push message service.
 The features list as follow.
 
